@@ -1,7 +1,27 @@
 @import url('https://fonts.googleapis.com/css?family=Titillium+Web:300,400,600');
-
+/*
 body {
     background: url(bga.jpg) center/cover no-repeat fixed;
+    font-family: 'Titillium Web', sans-serif;
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+}
+*/
+
+body {
+
+    background-image: url('BriefIgnorantBlackbuck-size_restricted.gif');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
+
     font-family: 'Titillium Web', sans-serif;
     display: flex;
     min-height: 100vh;
